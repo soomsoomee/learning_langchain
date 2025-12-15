@@ -3,3 +3,6 @@
 __pycache__
 log.txt
 output/
+.DS_Store
+chroma_db/
+faiss_db/
